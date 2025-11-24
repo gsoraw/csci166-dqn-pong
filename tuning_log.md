@@ -17,7 +17,7 @@ This file will contain all hyperparameter changes and small experiments.
 - Learning curve: `figures/curve_dqn_baseline.png`
 ## Run 2 — DDQN + Dueling
 - Date: 2025-11-24
-- Commit: <paste your commit hash>
+- Commit: 9cc549e
 - Model file: ALE_Pong-v5-DDQN-dueling-best.dat
 - Curve image: figures/curve_pong_ddqn_dueling.png
 - Episodes: 300
