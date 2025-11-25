@@ -45,7 +45,9 @@ notebooks/
     pong_pong_experiments.ipynb     ← exported Colab notebook (name may vary)
 
 videos/
-    (optional gameplay videos or placeholders)
+    Early / Random Behavior:
+
+    Later / Trained Behavior:
 
 tuning_log.md
 README.md
