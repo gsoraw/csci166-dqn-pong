@@ -42,7 +42,7 @@ figures/
         curve_pong_final.png
 
 notebooks/
-    pong_pong_experiments.ipynb     ← exported Colab notebook (name may vary)
+    pong_pong_experiments.ipynb     
 
 videos/
     Early / Random Behavior:
