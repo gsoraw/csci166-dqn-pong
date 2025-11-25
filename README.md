@@ -48,6 +48,6 @@ videos/
     Early / Random Behavior:
     https://github.com/gsoraw/csci166-dqn-pong/blob/main/videos/pong_random_behavior.mp4
     Later / Trained Behavior:
-
+    https://github.com/gsoraw/csci166-dqn-pong/blob/main/videos/pong_trained_behavior.mp4
 tuning_log.md
 README.md
